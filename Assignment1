@@ -1,0 +1,8 @@
+'''
+Name: Benjamin Cohen
+Assignment 1, SSW 540
+'''
+
+first_name = "Ben"
+last_name = "Cohen"
+print("Hello " + first_name + " "  + last_name)
